@@ -1,0 +1,1 @@
+This is The code for my website where all of my projects can be found along with all of their info. I will also announce new projects here.

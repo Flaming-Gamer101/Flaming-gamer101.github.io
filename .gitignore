@@ -1,0 +1,17 @@
+# project
+_site
+.sass-cache
+.vagrant
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+Gemfile.lock
+
+beautiful-jekyll-theme-*.gem
+.vs/Flaming-Gamer101.github.io/v17/.suo
+.vs/slnx.sqlite
+.vs/Flaming-Gamer101.github.io/v17/.suo
+.vs/slnx.sqlite
