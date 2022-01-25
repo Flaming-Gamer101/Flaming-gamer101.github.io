@@ -13,6 +13,6 @@ PROJECT IS CANCELLED
 
 
 
-
+ORIGINAL ARTICLE
 
 Today I am Glad to Announce... Project HomeKit+!   Project HomeKit+ is an open source project which aims to improve on software like homebridge and your overall homekit experience in order to do this, it uses stuff like homebridge and other software to improve your homekit experience including adding fake devices, integrating with incompatible devices, more advanced automations, along with even custom homekit devices running on a spare phone!
