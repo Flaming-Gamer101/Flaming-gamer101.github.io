@@ -4,10 +4,10 @@ title: Projects
 Subtitle: The current staus of all of my projects
 ---
 In Development:
-Project HomeKit Plus (www.Flaming-Gamer101.github.io/Project-Homekit-plus).
+Team-NinjaDev unnanounced game
 
 Pre-Alpha:
-Website. (www.Flaming-Gamer101.github.io)
+None.
 
 Alpha:
 None.
@@ -19,7 +19,7 @@ RC:
 None.
 
 Release:
-None.
+Website. (www.Flaming-Gamer101.github.io)
 
 (Post release releases)
 
